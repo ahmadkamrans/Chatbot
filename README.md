@@ -47,7 +47,7 @@ cd faq-chatbot</code></pre>
     <li>
       <strong>Create a virtual environment:</strong>
       <pre><code>python3 -m venv venv
-source venv/bin/activate   # For Windows: venv\Scripts\activate</code></pre>
+source venv/bin/activate   </code></pre>
     </li>
     <li>
       <strong>Install the dependencies:</strong>
